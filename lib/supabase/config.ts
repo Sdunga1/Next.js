@@ -1,0 +1,3 @@
+export const SUPABASE_URL = "https://pmsdwobpelhyyaqlxanb.supabase.co";
+export const SUPABASE_ANON_KEY =
+  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBtc2R3b2JwZWxoeXlhcWx4YW5iIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDkxNTMwNTEsImV4cCI6MjA2NDcyOTA1MX0.7YJx0XaqVsHXF3joCOopmDNp61Bl3Jag4xsXZd_MjJM";
